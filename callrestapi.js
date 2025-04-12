@@ -1,5 +1,5 @@
 //var url = "http://localhost:3300/api/users";
-var url = "https://pg-restapi-nrns.onrender.com/api/users";
+var url = "https://mysql-restapi-j3vq.onrender.com/api/users";
 
 function postUser() {
 
